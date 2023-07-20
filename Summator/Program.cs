@@ -17,7 +17,7 @@ namespace Summator
             }
 
             double average = Summator.Average(new long[] { 5, 10, 15 });
-            if (average ==10)
+            if (average == 10)
             {
                 Console.WriteLine("Test PASS");
             }
